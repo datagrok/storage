@@ -66,6 +66,6 @@ My projects [Opinions][], [Dialogue][], and [Storage][] are built with the inten
 [GNU Free Documentation License]: http://www.gnu.org/licenses/fdl.html
 [GNU Affero General Public License]: http://www.gnu.org/licenses/agpl.html
 
-[Opinions]: /datagrok/opinions
-[Dialogue]: /datagrok/dialogue
-[Storage]: /datagrok/storage
+[Opinions]: https://github.com/datagrok/opinions
+[Dialogue]: https://github.com/datagrok/dialogue
+[Storage]: https://github.com/datagrok/storage
